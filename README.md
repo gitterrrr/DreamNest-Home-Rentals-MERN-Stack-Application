@@ -89,6 +89,15 @@ The project has been deployed using Render and can be accessed through the follo
 
 [DreamNest Deployed Site](https://dreamnest-home-rentals-mern-stack.onrender.com/)
 
+## Screenshots
+![ss1](./client/public/assets/shot1.png)
+![ss2](./client/public/assets/shot2.png)
+![ss3](./client/public/assets/shot3.png)
+![ss4](./client/public/assets/shot4.png)
+![ss5](./client/public/assets/shot5.png)
+![ss6](./client/public/assets/shot6.png)
+![ss7](./client/public/assets/shot7.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
