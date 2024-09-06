@@ -19,7 +19,7 @@ const CategoryPage = () => {
   const getFeedListings = async () => {
     try {
       const response = await fetch(
-          `http://localhost:3001/properties?category=${category}`,
+          `https://dreamnest-home-rentals.onrender.com/properties?category=${category}`,
         {
           method: "GET",
         }
